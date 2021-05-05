@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 My name is Fugue(F-0728).
+
 I'm a high school student in Japan.
+
 I'm currently learning Python, 
 but since I want to make my programs available on a website,
 I plan to learn HTML, CSS, and JavaScript next.
