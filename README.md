@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Fugue(F-0728).
-
-I'm a high school student in Japan.
-
-I'm currently learning Python, 
-but I want to make my programs available on a website,
-so I plan to learn HTML, CSS, and JavaScript next.
+Fugue here,
+I major in information technology at Kyoto Univ.
+I'm currently learning Python with macOS.
+Pronouns: she/her they/them
