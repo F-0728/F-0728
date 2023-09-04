@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Fugue here,
-I major in information technology at Kyoto Univ.
-I'm currently learning Python with macOS.
-Pronouns: she/her they/them
+Currently learning informatics and quantum chemistry.
