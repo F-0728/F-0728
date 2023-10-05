@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently learning informatics and quantum chemistry.
+Currently learning informatics and linguistics.
