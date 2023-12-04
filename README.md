@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 Currently learning informatics and linguistics.
+[![trophy](https://github-profile-trophy.vercel.app/?username=F-0728&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
