@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Currently learning informatics and linguistics.
-[![trophy](https://github-profile-trophy.vercel.app/?username=F-0728&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=F-0728)](https://github.com/F-0728/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=F-0728&theme=onedark)](https://github.com/F-0728/github-profile-trophy)
