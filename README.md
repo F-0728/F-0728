@@ -1,19 +1,8 @@
-### Hi there 👋
+### About Me
+- Full stUck engineer
+- University student (CS major)
+- Other interests: classical music, chem, linguistics
 
-<!--
-**F-0728/F-0728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Currently learning informatics and linguistics.
-[![trophy](https://github-profile-trophy.vercel.app/?username=F-0728&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### Skills ever used
+- Front-end: TypeScript(React), Next.js
+- Back-end: Python(FastAPI, Django), Go
