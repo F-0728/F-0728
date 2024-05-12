@@ -1,6 +1,6 @@
 ### About Me
 - University student (CS major)
-- working as a web engineer
+- working as a web engineer (part-time)
 - Other interests: classical music, chem, linguistics
 
 ### Tech/Langs ever used
