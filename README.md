@@ -8,4 +8,3 @@
 - Back-end: Python(FastAPI, Django), Go
 - Others: Java, C++
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F-0728)](https://github.com/anuraghazra/github-readme-stats)
