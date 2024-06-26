@@ -5,6 +5,6 @@
 
 ### Tech/Langs ever used
 - Front-end: TypeScript(React), Next.js
-- Back-end: Python(FastAPI, Django), Go
+- Back-end: Python(FastAPI, Django)
 - Others: Java, C++
 
