@@ -1,5 +1,5 @@
 ### About Me
-- CS major university student
+- CS major grad student
 - Part-time web engineer
 - Front-end since Sep 2023 
 - Back-end since Dec 2023
